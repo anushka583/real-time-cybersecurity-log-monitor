@@ -1,7 +1,7 @@
-# Real-Time Cybersecurity Log Monitoring Dashboard
+# ThreatPulse - Live Security Log Monitoring and Behavioral Analysis System
 
 **Overview:**
-*A real-time cybersecurity analytics dashboard built using Python, MySQL, and Streamlit. The system simulates security logs, stores them in a relational database, and provides live monitoring with brute-force attack detection.*
+*A real-time cybersecurity analytics dashboard built using Python, MySQL, and Streamlit. The system simulates security logs, stores them in a relational database, and provides live monitoring with brute-force attack detection. This system is designed as a continuously running backend monitoring tool. Visualization is secondary to detection integrity.*
 
 **Tech Stack:**
 * Python 3.12
